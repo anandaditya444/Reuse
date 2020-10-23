@@ -56,5 +56,5 @@ app.post('/purchase', function(req, res) {
     }
   })
 })
-
+// Listening to server
 app.listen(3000)
